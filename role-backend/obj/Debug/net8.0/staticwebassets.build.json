@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tHWexm56gAJbB/iGmwll5SHZ/hce7HfVey8FELWhuOc=",
+  "Source": "role-backend",
+  "BasePath": "_content/role-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
