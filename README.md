@@ -1,6 +1,9 @@
 # Rol Yönetim Sistemi
 
 Bu proje, kullanıcı ve rol yönetimini sağlayan full-stack bir web uygulamasıdır. Sistem, kullanıcıların yetkilendirmelerini ve rollerini yönetmeyi amaçlamaktadır.
+![login-screen](https://github.com/user-attachments/assets/4b0bbab4-b772-46ff-854f-61ccf03e8d89)
+![dashboard](https://github.com/user-attachments/assets/d2eda7d5-a284-4d8f-a80f-608b87f2daad)
+![edit-roles](https://github.com/user-attachments/assets/1ea36739-f2f4-4268-a5ff-1d4e54f6e024)
 
 ## 🚀 Teknolojiler
 
